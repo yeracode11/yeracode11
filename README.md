@@ -6,8 +6,8 @@
 ⚡ **Программирую на Flutter с любовью**  
 🎨 **От макетов до реального кода — все в моих руках!**
 
+ 👉🏼 **How to reach me**
  <a href="https://t.me/erasoft1" target="_blank">
-  👉🏼 **How to reach me**
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVleHNqOWtid29tdWNzajl6a2RlY2UxOXRtMmR2bnd5N3hkeXU0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ya4eevXU490Iw/giphy.gif" width="20" />
 </a>
 
